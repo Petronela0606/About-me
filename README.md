@@ -2,7 +2,7 @@
 
 
 
-👋 Hi there! I'm PAulina, a recent graduate of  IT Data Skills Bootcamp. Passionate about data analysis and software development, I thrive in turning complex datasets into actionable insights. My skills include:
+👋 Hi there! I'm Paulina, a recent graduate of  IT Data Skills Bootcamp. Passionate about data analysis and software development, I thrive in turning complex datasets into actionable insights. My skills include:
 
 📊 Data Analysis: Proficient in extracting, cleaning, and visualizing data using tools like Python, SQL, and Pandas.
 
